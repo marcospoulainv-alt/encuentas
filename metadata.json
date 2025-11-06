@@ -1,0 +1,5 @@
+{
+  "name": "Encuesta en Vivo - Votación en Tiempo Real",
+  "description": "Crea encuestas instantáneas y recopila feedback en tiempo real. Los presentadores pueden crear una encuesta, compartir un código QR y ver cómo los resultados se actualizan en vivo mientras los participantes votan desde sus dispositivos.",
+  "requestFramePermissions": []
+}
